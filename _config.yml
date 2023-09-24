@@ -11,7 +11,7 @@ title                    : "Zhaorui Ding's Home Page"
 title_separator          : ""
 name                     : &name "Zhaorui Ding"
 description              : &description "Undergrad student at Dept of CS, HUST"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zrdingpersonal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,7 +85,7 @@ author:
   bio              : "Undergrad student at Dept of CS, HUST"
   location         : "Hubei, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
   email            :  "zhaorui_ding@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
