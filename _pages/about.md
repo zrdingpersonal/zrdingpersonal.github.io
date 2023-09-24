@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Brief Introduction"
+title: "Hi, this is Zhaorui Ding"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
