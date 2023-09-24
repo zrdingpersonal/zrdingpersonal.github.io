@@ -16,7 +16,7 @@ If you want a listed introduction of myself, please see the "CV" page. If you wa
 Education
 ------
 
-I will be graduating from the Department of Computer Science, Huazhong University of Science and Technology in May, 2024 and receive my Bachelor's Degree in Science. Before that, I completed my high school in Tsinghua University High School.
+I will be graduating from the Department of Computer Science, Huazhong University of Science and Technology ([HUST](http://english.hust.edu.cn/)) in May, 2024 and receive my Bachelor's Degree in Science. Before that, I completed my high school in Tsinghua University High School.
 
 ## Research Interests
 
@@ -27,11 +27,11 @@ Besides, I also hold interest in AI itself and its application. As an undergradu
 Research Experiences
 ------
 
-I have involved in a research of database partitioning and indexing as a research assistant under the guidance of Professor Hua Wang and Ke Zhou at the Intelligent Data Storage and Management Laboratory (IDSM), during which I worked on a system for database partitioning and indexing recommendation that aims to minimize data retrieval latency under a given storage budget. By a novel approach that combines partitioning and indexing with algorithm optimization, a system was built with python which, in later experiments, proved to reduce latency by 15% compared with another state-of-the-art model.
+I have involved in a research of database partitioning and indexing as a research assistant under the guidance of Professor **Hua Wang** and **Ke Zhou** at the Intelligent Data Storage and Management Laboratory ([IDSM](http://idsm.wnlo.hust.edu.cn/)), Wuhan National Laboratory for Optoelectronics ([WNLO](http://wnlo.hust.edu.cn/)), during which I worked on a system for database partitioning and indexing recommendation that aims to minimize data retrieval latency under a given storage budget. By a novel approach that combines partitioning and indexing with algorithm optimization, a system was built with python which, in later experiments, proved to reduce latency by 15% compared with another state-of-the-art model.
 
 Previously, I was a research intern at the Cloud Storage Joint Research Center of HUST and Tencent. I read papers about storage systems, particularly AI for anomaly detection of disks and propagation of anomaly in web services. I also ran experiments to test some of these models and examined their performance.
 
-Besides, I also worked as a research intern at Shanghai Artificial Intelligence Laboratory (also known as Pujiang Lab) and conducted research on AI for Bioinformatics, specifically De Novo Peptide Sequencing based on Deep learning. Following the idea of image-text retrieval, I contributed to building a multi-modal deep learning model that utilized contrastive learning for learning the pattern of tandem mass spectra and their corresponding protein sequence.
+Besides, I also worked as a research intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) (also known as Pujiang Lab) and conducted research on AI for Bioinformatics, specifically De Novo Peptide Sequencing based on Deep learning. Following the idea of image-text retrieval, I contributed to building a multi-modal deep learning model that utilized contrastive learning for learning the pattern of tandem mass spectra and their corresponding protein sequence.
 
 Other Experiences
 ------
