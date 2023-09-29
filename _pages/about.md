@@ -26,7 +26,7 @@ Besides, I also hold interest in AI itself and its application. As an undergradu
 
 Research Experiences
 ------
-Currently, I am working on disaggregated systems and databases under the guidance of professor [**Jianguo Wang**] (https://www.cs.purdue.edu/homes/csjgwang/) from Purdue University.
+Currently, I am working on disaggregated systems and databases under the guidance of professor __[Jianguo Wang] (https://www.cs.purdue.edu/homes/csjgwang/)__ from Purdue University.
 
 I have involved in a research of database partitioning and indexing as a research assistant under the guidance of Professor **Hua Wang**[[DBLP]](https://dblp.org/pid/33/3535-8.html) and **Ke Zhou**[[DBLP]](https://dblp.org/pid/78/2949-1.html) at the Intelligent Data Storage and Management Laboratory ([IDSM](http://idsm.wnlo.hust.edu.cn/)), Wuhan National Laboratory for Optoelectronics ([WNLO](http://wnlo.hust.edu.cn/)), during which I worked on a system for database partitioning and indexing recommendation that aims to minimize data retrieval latency under a given storage budget. By a novel approach that combines partitioning and indexing with algorithm optimization, a system was built with python which, in later experiments, proved to reduce latency by 15% compared with another state-of-the-art model. (The work is expected to be published in November) 
 
