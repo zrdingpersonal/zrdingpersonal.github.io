@@ -1,3 +1,13 @@
+---
+title: 'My Favorite Words'
+date: 2023-10-06
+permalink: /posts/2023/10/my-favorite-words/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 Glad you find here. Here is something I read over and over again when I was upset. Written by American cosmologist and author Carl Sagan, these words have the magical power.
 
 ![Pale Blue Dot](./PaleBlueDot.jpg)
