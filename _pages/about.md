@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! This is my personal website that briefly introduces myself: my experiences, my interests, etc. I am planning to apply for Ph.D. or MSc in North America. If you feel my interests or experiences interesting, please feel free to [contact me](mailto:zhaorui_ding@hust.edu.cn). Thank you for your time and attention!
 
-If you want a listed introduction of myself, please see the "CV" page. If you want to read my blogs, see https://dingzr2001.github.io.
+If you want a listed introduction of myself, please see the "CV" page. **If you want to read my blogs, see [https://dingzr2001.github.io](https://dingzr2001.github.io)**.
 
 Education
 ------
