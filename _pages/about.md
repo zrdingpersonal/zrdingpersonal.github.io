@@ -20,9 +20,9 @@ I will be graduating from the Department of Computer Science, Huazhong Universit
 
 ## Research Interests
 
-My research interest lies in computer systems and databases, including storage system, anomaly detection,
+My research interest lies in computer systems and databases, including storage systems, anomaly detection,
 resource scheduling, database indexing and partitioning, query and data processing, and their interaction with AI.
-Besides, I also hold interest in AI itself and its application. As an undergraduating student, there are many fields for me to explore.
+Besides, I also hold an interest in AI itself and its application. As an undergraduate student, there are many fields for me to explore.
 
 Research Experiences
 ------
