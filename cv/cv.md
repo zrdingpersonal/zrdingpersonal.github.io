@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-If you want the full version, [![download pdf here](https://img.shields.io/badge/-download pdf here-0072E3?style=flat-square&logo=pdf&logoColor=white)](./CV_Zhaorui_Ding.pdf).
+If you want the full version, [![download pdf here](https://img.shields.io/badge/-download pdf here-0072E3?style=flat-square&logo=pdf&logoColor=white)](./Resume_Zhaorui_Ding.pdf).
 
 Education
 ------
