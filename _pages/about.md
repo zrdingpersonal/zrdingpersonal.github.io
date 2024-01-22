@@ -26,18 +26,17 @@ Besides, I also hold an interest in AI itself and its application. As an undergr
 
 Research Experiences
 ------
-Currently, I am working on disaggregated systems and databases under the guidance of professor <b><a href="https://www.cs.purdue.edu/homes/csjgwang/">Jianguo Wang</a></b> from Purdue University.
 
-I have involved in a research of database partitioning and indexing as a research assistant under the guidance of Professor **Hua Wang**[[DBLP]](https://dblp.org/pid/33/3535-8.html) and **Ke Zhou**[[DBLP]](https://dblp.org/pid/78/2949-1.html) at the Intelligent Data Storage and Management Laboratory ([IDSM](http://idsm.wnlo.hust.edu.cn/)), Wuhan National Laboratory for Optoelectronics ([WNLO](http://wnlo.hust.edu.cn/)), during which I worked on a system for database partitioning and indexing recommendation that aims to minimize data retrieval latency under a given storage budget. By a novel approach that combines partitioning and indexing with algorithm optimization, a system was built with python which, in later experiments, proved to reduce latency by 15% compared with another state-of-the-art model. (**The work is expected to be published in November**) 
+I have involved in research of database partitioning and indexing as a research assistant under the guidance of Professor **Hua Wang**[[DBLP]](https://dblp.org/pid/33/3535-8.html) and **Ke Zhou**[[DBLP]](https://dblp.org/pid/78/2949-1.html) at the Intelligent Data Storage and Management Laboratory ([IDSM](http://idsm.wnlo.hust.edu.cn/)), Wuhan National Laboratory for Optoelectronics ([WNLO](http://wnlo.hust.edu.cn/)), during which I worked on a system for database partitioning and indexing recommendation that aims to minimize data retrieval latency under a given storage budget. By a novel approach that combines partitioning and indexing with algorithm optimization, a system was built with _python_ which, in later experiments, proved to reduce latency by 1.14-4.04x compared with other state-of-the-art models. 
 
-Previously, I was a research intern at the Cloud Storage Joint Research Center of HUST and Tencent. I read papers about storage systems, particularly AI for anomaly detection of disks and propagation of anomaly in web services. I also ran experiments to test some of these models and examined their performance.
+Previously, I was a research intern at the Cloud Storage Joint Research Center of HUST and Tencent. I summarized papers about storage systems, particularly AI for anomaly detection of disks and propagation of anomalies in web services. I also implemented a transfer learning model for minority disk failure prediction and ran experiments to test its performance.
 
 Besides, I also worked as a research intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) (also known as Pujiang Lab) and conducted research on AI for Bioinformatics, specifically De Novo Peptide Sequencing based on Deep learning. Following the idea of image-text retrieval, I contributed to building a multi-modal deep learning model that utilized contrastive learning for learning the pattern of tandem mass spectra and their corresponding protein sequence.
 
 Other Experiences
 ------
 
-In my spare time, I have engaged in explorations in related fields. I participated in the 2023 ACM SIGMOD Programming Contest, where I delved into the construction algorithm of KNN Graph in high-dimensional spaces, a problem proposed by Microsoft. As a member of the school's competition team, I implemented two mapping methods: Locality Sensitive Hashing and KD-Tree, compared their performance and explored the effectiveness of the NN-Descent algorithm for KNNG optimization (with C++). In the end, our team achieved a recall rate over 96% on a dataset with 10 million points, ranking seventh on the final leaderboard. Besides, I also learned cloud computing and storage at CECloud as a visiting student.
+In my spare time, I have engaged in explorations in related fields. I participated in the 2023 ACM SIGMOD Programming Contest, where I delved into the construction algorithm of KNN Graph in high-dimensional spaces, a problem proposed by Microsoft. As a member of the school's competition team, I implemented two mapping methods: Locality Sensitive Hashing and KD-Tree, compared their performance and explored the effectiveness of the NN-Descent algorithm for KNNG optimization (with C++). In the end, our team achieved a recall rate of over 96% on a dataset with 10 million points, ranking seventh on the final leaderboard. Besides, I also learned cloud computing and storage at CECloud as a visiting student.
 
 Moreover, I have participated in some team projects and developed my teamwork skills. I participated in the development of an online learning platform based on learning route, where I was responsible for front-end development, interface implementation, and some back-end development work. Together with other team members, we completed the website and deployed it onto the public network.
 
@@ -45,9 +44,9 @@ In addition to study and research, I also served as the Vice President of the Co
 
 ## More About Me
 
-During my time in university, I have learned multiple programming languages such as C, C++, Java, Python, and JavaScript. Among them, I am most fond of C++ and Python for coding. In my personal life, I am an outgoing person who enjoys various sports such as running, swimming, cycling, basketball, and table tennis. I also have a interest in board games and artistic creations, including chess, Go, and photography, which add color and richness to my life.
+During my time in university, I have learned multiple programming languages such as C, C++, Java, Python, and JavaScript. Among them, I am most fond of C++ and Python for coding. In my personal life, I am an outgoing person who enjoys various sports such as running, swimming, cycling, basketball, and table tennis. I also have an interest in board games and artistic creations, including chess, Go, and photography, which add color and richness to my life.
 
 End
 ------
 
-That's briefly about me. "Life is a lucid dream", said my favorite singer Adam Young. Hope I would try me best to figure it out and make it better. Also, wish you good health and a wonderful day!
+That's briefly about me. "Life is a lucid dream", said my favorite singer Adam Young. Hope I will try my best to figure it out and make it better. Also, wish you good health and a wonderful day!
