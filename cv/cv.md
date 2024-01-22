@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-If you want the full version, [![contact me directly](https://img.shields.io/badge/-contact me directly-0072E3?style=flat-square&logo=pdf&logoColor=white)](mailto:zhaorui_ding@hust.edu.cn) so I can send you a up-to-date one.
+If you want the full version, [![contact me directly](https://img.shields.io/badge/-contact me directly-0072E3?style=flat-square&logo=pdf&logoColor=white)](mailto:zhaorui_ding@hust.edu.cn) so I can send you an up-to-date one.
 
 Education
 ------
@@ -18,9 +18,9 @@ Education
 
 ## Research Interests
 
-- Computer architecture: computer systems, storage systems, anomoly detection, scheduling
+- Computer architecture: computer systems, storage systems, anomaly detection, scheduling
 - Database systems: database partitioning and indexing, query and data processing, cloud computing
-- AI: AI applications, and their interation with systems
+- AI: AI applications, and their interaction with systems
 - Others: as an undergraduate student, there are many fields for me to explore
 
 Research Experiences
