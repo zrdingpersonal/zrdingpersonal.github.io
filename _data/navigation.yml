@@ -6,5 +6,5 @@ main:
   - title: "Words"
     url: /words/
   
-  #- title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
