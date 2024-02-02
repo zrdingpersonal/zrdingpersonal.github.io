@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Words"
+permalink: /words/
+author_profile: true
+redirect_from:
+  - /words
+
+---
 # Something for Me and for You
 
 The Voyager 1 spacecraft was launched on September 5, 1977, and subsequently passed by Jupiter, 
