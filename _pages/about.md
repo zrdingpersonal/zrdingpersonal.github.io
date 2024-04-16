@@ -16,7 +16,7 @@ If you want a listed introduction of myself, please see the "CV" page. **If you 
 Education
 ------
 
-I will be graduating from the Department of Computer Science, Huazhong University of Science and Technology ([HUST](http://english.hust.edu.cn/)) in May, 2024 and receive my Bachelor's Degree in Engineering. Before that, I completed my high school in Tsinghua University High School.
+I am going to Georgia Institute of Technology to study for a master's degree in computer science in September 2024. Before that, I will be graduating from the School of Computer Science, Huazhong University of Science and Technology ([HUST](http://english.hust.edu.cn/)) in Juna 2024 and receive my Bachelor's Degree in Engineering. Before that, I completed my high school in Tsinghua University High School.
 
 ## Research Interests
 
