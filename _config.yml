@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhaorui Ding's Home Page"
 title_separator          : ""
 name                     : &name "Zhaorui Ding"
-description              : &description "Undergrad student at Dept of CS, HUST"
+description              : &description "Undergrad student at School of CS, HUST"
 url                      : https://zrdingpersonal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhaorui Ding"
   avatar           : "MyAvatar_WNLO.JPG"
-  bio              : "Undergrad student at Dept of CS, HUST"
-  location         : "Hubei, China"
+  bio              : "HUST->Georgia Tech"
+  location         : "Hubei, China->Altlanta, GA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
