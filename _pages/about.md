@@ -9,20 +9,19 @@ redirect_from:
 
 ---
 
-Welcome! This is my personal website that briefly introduces myself: my experiences, my interests, etc. I am planning to apply for Ph.D. or MSc in North America. If you feel my interests or experiences interesting, please feel free to [contact me](mailto:zhaorui_ding@hust.edu.cn). Thank you for your time and attention!
+Welcome! This is my personal website that briefly introduces myself: my experiences, my interests, etc. I am planning to apply for Ph.D. in North America. If you feel my interests or experiences interesting, please feel free to [contact me](mailto:zhaorui_ding@hust.edu.cn). Thank you for your time and attention!
 
 If you want a listed introduction of myself, please see the "CV" page. **If you want to read my blogs, see [https://dingzr2001.github.io](https://dingzr2001.github.io)**.
 
 Education
 ------
 
-I am going to Georgia Institute of Technology to study for a master's degree in computer science in September 2024. Before that, I will be graduating from the School of Computer Science, Huazhong University of Science and Technology ([HUST](http://english.hust.edu.cn/)) in Juna 2024 and receive my Bachelor's Degree in Engineering. Before that, I completed my high school in Tsinghua University High School.
+I am going to Georgia Institute of Technology to study for a master's degree in computer science in September 2025. I obtained a Bachelor of Engineering degree from the Excellence Engineer Program in Computer Science at Huazhong University of Science and Technology in June 2024. Before that, I completed my high school in Tsinghua University High School. Currently, I am an SWE intern at Microsoft, China.
 
 ## Research Interests
 
-My research interest lies in computer systems and databases, including storage systems, anomaly detection,
-resource scheduling, database indexing and partitioning, query and data processing, and their interaction with AI.
-Besides, I also hold an interest in AI itself and its application. As an undergraduate student, there are many fields for me to explore.
+My research interest lies in computer systems and databases, including storage systems, resource scheduling, database systems, query and data processing, and their interaction with AI.
+Besides, I also hold an interest in natural science and its intersection with computer science, such as spatial database and GIS, etc. There are many fields for me to explore.
 
 Research Experiences
 ------
