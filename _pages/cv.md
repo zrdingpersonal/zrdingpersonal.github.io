@@ -30,11 +30,14 @@ Research Experiences
 * AI for Storage Joint Research Program by HUST and Tencent
 * De Novo Peptide Sequencing based on Multi-modal Deep Learning (Shanghai AI Lab)
 
+Industrial Experiences
+------
+
+* Microsoft, SWE intern for bing image.
+
 ## Other Experiences (Contests, Projects, etc.)
 
 - ACM SIGMOD Programming Contest: High Dimensional KNN Graph Construction
 
 - Web App Development: Online Learning Platform based on Learning Route
-
-- Visiting: CECloud.Inc
 
